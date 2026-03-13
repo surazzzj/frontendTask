@@ -1,11 +1,11 @@
-IDR Logo Design Explanation
+# IDR Logo Design Explanation
 
-The IDR logo uses a geometric cube-inspired symbol to represent
-structure, resilience and digital infrastructure architecture.
+The **Institute of Digital Risk (IDR)** logo is designed around a **geometric cube-inspired symbol**, representing structure, resilience, and the architecture of modern digital infrastructure. The cube form reflects the layered and interconnected nature of digital risk environments, where governance, cybersecurity, and technology systems work together.
 
-The orange colour reflects innovation and digital transformation,
-while black symbolises security, governance and trust in risk
-management environments.
+The **orange color** symbolizes innovation, transformation, and forward-thinking approaches in digital and AI risk management. It represents the institute’s focus on preparing professionals for rapidly evolving digital ecosystems.
 
-The minimal geometric design ensures the logo remains clear
-and legible even at small sizes such as mobile headers or favicons.
+The **black color** reflects security, governance, and trust — key principles required when managing cyber, digital, and AI-related risks within modern organizations.
+
+The logo uses a **minimal geometric design**, ensuring clarity, scalability, and visual consistency across platforms. This approach allows the logo to remain easily recognizable and legible even at smaller sizes, such as **mobile headers, navigation bars, and favicons**.
+
+Overall, the IDR logo visually communicates the institute’s mission: building structured, resilient, and trusted approaches to managing digital risk in an increasingly complex technological world.
