@@ -1,4 +1,4 @@
-# IDR Logo Design Explanation
+#IDR Logo Design Explanation
 
 The **Institute of Digital Risk (IDR)** logo is designed around a **geometric cube-inspired symbol**, representing structure, resilience, and the architecture of modern digital infrastructure. The cube form reflects the layered and interconnected nature of digital risk environments, where governance, cybersecurity, and technology systems work together.
 
